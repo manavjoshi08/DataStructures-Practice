@@ -9,3 +9,14 @@ C:\MJ\Repos\Samples\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.
 C:\MJ\Repos\Samples\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.AssemblyInfo.cs
 C:\MJ\Repos\Samples\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.dll
 C:\MJ\Repos\Samples\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.pdb
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp2.2\LinkedListPractice.deps.json
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp2.2\LinkedListPractice.runtimeconfig.json
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp2.2\LinkedListPractice.runtimeconfig.dev.json
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp2.2\LinkedListPractice.dll
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\bin\Debug\netcoreapp2.2\LinkedListPractice.pdb
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.csprojAssemblyReference.cache
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.csproj.CoreCompileInputs.cache
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.AssemblyInfoInputs.cache
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.AssemblyInfo.cs
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.dll
+C:\MJ\Repos\Samples\DataStructures-Practice\LinkedListPractice\LinkedListPractice\obj\Debug\netcoreapp2.2\LinkedListPractice.pdb

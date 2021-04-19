@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MJ\\Repos\\Samples\\LinkedListPractice\\LinkedListPractice\\LinkedListPractice.csproj",
+      "projectUniqueName": "C:\\MJ\\Repos\\Samples\\DataStructures-Practice\\LinkedListPractice\\LinkedListPractice\\LinkedListPractice.csproj",
       "projectName": "LinkedListPractice",
-      "projectPath": "C:\\MJ\\Repos\\Samples\\LinkedListPractice\\LinkedListPractice\\LinkedListPractice.csproj",
+      "projectPath": "C:\\MJ\\Repos\\Samples\\DataStructures-Practice\\LinkedListPractice\\LinkedListPractice\\LinkedListPractice.csproj",
       "packagesPath": "C:\\Users\\manavj\\.nuget\\packages\\",
-      "outputPath": "C:\\MJ\\Repos\\Samples\\LinkedListPractice\\LinkedListPractice\\obj\\",
+      "outputPath": "C:\\MJ\\Repos\\Samples\\DataStructures-Practice\\LinkedListPractice\\LinkedListPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,10 +13,14 @@ namespace DoubleLinkedListPractice
 
     public class DoubleLinkedList
     {
+        static DateTime time;
         private Node head, tail;
 
         public void Add(int data)
         {
+            if (time == null)
+                Console.Write("");
+
             Node newItem = new Node()
             {
                 data = data
